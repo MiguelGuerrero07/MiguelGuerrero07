@@ -1,7 +1,6 @@
-### Hola , Soy Miguel Guerrero , conoce un poco de mis Skills y proyectos👋
+<p align="center" width="300">
+   <img align="center" width="200" src= />
+   <h3 align="center">¡Hey 👋! Soy Miguel Guerrero👨🏻‍💻</h3>
+</p>
 
-
-
-- 🔭 I’m currently working on NTT DATA , developer at Salesforce
-- 🌱 I’m currently learning Salesforce, JavaScript , Java, Html ,Vue, React, CSS...
-- ⚡ Fun fact I played professional soccer in pumas mx
+<p align="center">Soy <strong>Desarrollador Salesorce </strong><br /></p>
