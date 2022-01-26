@@ -24,12 +24,13 @@
   
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/9vytrtwcq7st74s1aybm5t3la?si=b95831dcff7d4b4f)
 <img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ## Contact 📞
 
 
 <div  align="center" width="300">
-   
+  <img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px">
   <a href="https://www.instagram.com/miguel_guerrero_12 " target="blank">
   <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/>
   </a>
