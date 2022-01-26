@@ -9,14 +9,17 @@
         />
 </p>
 
+## Whoami
+
+- 🔭 I’m currently working on NTT DATA , developer at Salesforce
+- 🌱 I’m currently learning Salesforce, JavaScript , Java, Html ,Vue, React, CSS...
+- ⚡ Fun fact I played professional soccer in pumas mx
 
 ## Spotify Playing 🎧
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/9vytrtwcq7st74s1aybm5t3la?si=b95831dcff7d4b4f)
 <img align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 
-  
-<br>
 ## Contact 📞
 
   <a href="https://www.instagram.com/miguel_guerrero_12 " target="blank">
@@ -37,15 +40,5 @@
 <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" height="100">
 
 
-## Whoami
-
-- 🔭 I’m currently working on NTT DATA , developer at Salesforce
-- 🌱 I’m currently learning Salesforce, JavaScript , Java, Html ,Vue, React, CSS...
-- ⚡ Fun fact I played professional soccer in pumas mx
-
-<div>
-
- 
 
 
-</div>
