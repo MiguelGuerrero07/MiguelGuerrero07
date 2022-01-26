@@ -1,28 +1,22 @@
-
-   
 ## Whoami 
 
+<img align="right" height="200px" src="https://user-images.githubusercontent.com/69058719/151088496-02b581ab-5efa-4493-bac6-bdb7456ef969.png">
 <p align="center" width="600">¡Hey 👋! Soy Miguel Guerrero 👨🏻‍💻 </p>
-<div align="center" width="300">
-   <div  align="center" width="200">
-<img  align="rigth" width="200"src="https://user-images.githubusercontent.com/69058719/151088496-02b581ab-5efa-4493-bac6-bdb7456ef969.png">
 <p align="center" width="500">Soy<strong> Desarrollador Salesorce</strong></p>
-<img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px">
+<img align="left" src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px">
 <br>🔭 I’m currently working on NTT DATA , developer at Salesforce
 <br>🌱 I’m currently learning Salesforce, JavaScript , Java, Html ,Vue, React, CSS...
 <br>⚡ Fun fact I played professional soccer in pumas mx
 
-      
 
 ## Statistics
+<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" height="50">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelGuerrero07&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelGuerrero07&layout=compact&langs_count=7&theme=cobalt"/>
+<a href="https://github.com/MiguelGuerrero07">
+   
 
-<div align="center">
-   <a href="https://github.com/MiguelGuerrero07">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelGuerrero07&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelGuerrero07&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
 
-<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" height="100">
 
 
 ## Spotify Playing 🎧
@@ -34,7 +28,7 @@
 ## Contact 📞
 
 
-<div  align="center" width="300">
+<div  align="center" width="500">
  
   <a href="https://www.instagram.com/miguel_guerrero_12 " target="blank">
   <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/>
@@ -48,5 +42,3 @@
   <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>
   </a>
 </div>
-
-
