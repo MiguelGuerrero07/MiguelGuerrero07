@@ -1,14 +1,13 @@
-<img src = "https://octodex.github.com/images/spidertocat.png" height="100px">
-<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" height="100">
-<p align="center" width="400" >
-¡Hey 👋! Soy Miguel Guerrero 👨🏻‍💻 </p>
+## Whoami 
+
+<p align="center" width="600">¡Hey 👋! Soy Miguel Guerrero 👨🏻‍💻 </p>
+<div align="center" width="300">
+<img  align="center" width="200"src="https://user-images.githubusercontent.com/69058719/151088496-02b581ab-5efa-4493-bac6-bdb7456ef969.png"></div>
 <p align="center" width="500">Soy<strong> Desarrollador Salesorce</strong></p>
 
-## Whoami
-
-- 🔭 I’m currently working on NTT DATA , developer at Salesforce
-- 🌱 I’m currently learning Salesforce, JavaScript , Java, Html ,Vue, React, CSS...
-- ⚡ Fun fact I played professional soccer in pumas mx
+<br>🔭 I’m currently working on NTT DATA , developer at Salesforce
+<br>🌱 I’m currently learning Salesforce, JavaScript , Java, Html ,Vue, React, CSS...
+<br>⚡ Fun fact I played professional soccer in pumas mx
 
 
 ## Statistics
@@ -22,28 +21,26 @@
 
 
 ## Spotify Playing 🎧
+  
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/9vytrtwcq7st74s1aybm5t3la?si=b95831dcff7d4b4f)
-<img align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
+<img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ## Contact 📞
+<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" height="100">
 
+<div  align="center" width="300">
+   
   <a href="https://www.instagram.com/miguel_guerrero_12 " target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
+  <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/>
   </a>
 
   <a href="https://twitter.com/MiguelGuerre07" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+  <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png"/>
   </a>
   
-<a href="https://www.linkedin.com/in/miguel-guerrero-331a491a7" target="blank">
-   <img align="center" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" height="28px" alt="midudev" width="28px">
-</a>
+  <a href="https://www.linkedin.com/in/miguel-guerrero-331a491a7" target="blank">
+  <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>
+  </a>
 </div>
-
-
-
-
-
 
 
