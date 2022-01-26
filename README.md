@@ -1,7 +1,15 @@
+<img src = "https://octodex.github.com/images/spidertocat.png" height="100px">
+<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" height="100">
+<p align="center" width="400" >
+¡Hey 👋! Soy Miguel Guerrero 👨🏻‍💻 </p>
+<p align="center" width="500">Soy<strong> Desarrollador Salesorce</strong></p>
 
-<p align="center" width="300" >
-¡Hey 👋! Soy Miguel Guerrero👨🏻‍💻</h3></p>
-<p align="center">Soy<strong> Desarrollador Salesorce</strong></p>
+## Whoami
+
+- 🔭 I’m currently working on NTT DATA , developer at Salesforce
+- 🌱 I’m currently learning Salesforce, JavaScript , Java, Html ,Vue, React, CSS...
+- ⚡ Fun fact I played professional soccer in pumas mx
+
 
 ## Statistics
 
@@ -12,17 +20,6 @@
 </div>
 
 
-
-
-
-
-
-
-## Whoami
-
-- 🔭 I’m currently working on NTT DATA , developer at Salesforce
-- 🌱 I’m currently learning Salesforce, JavaScript , Java, Html ,Vue, React, CSS...
-- ⚡ Fun fact I played professional soccer in pumas mx
 
 ## Spotify Playing 🎧
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/9vytrtwcq7st74s1aybm5t3la?si=b95831dcff7d4b4f)
@@ -44,9 +41,8 @@
 </a>
 </div>
 
-## My Hobbies 
-<img src = "https://octodex.github.com/images/spidertocat.png" height="100px">
-<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" height="100">
+
+
 
 
 
