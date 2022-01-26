@@ -26,7 +26,7 @@
 <img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ## Contact 📞
-<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" height="100">
+
 
 <div  align="center" width="300">
    
