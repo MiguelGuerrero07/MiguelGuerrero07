@@ -4,10 +4,18 @@
 <p align="center">Soy<strong> Desarrollador Salesorce</strong></p>
 
 ## Statistics
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelguerrero07&show_icons=true&locale=en" alt="miguelguerrero07"/><p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelguerrero07&show_icons=true&locale=en&layout=compact" alt="miguelguerrero07"
-        />
-</p>
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelguerrero07">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelguerrero07">
+</div>
+
+
+
+
+
+
+
 
 ## Whoami
 
