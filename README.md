@@ -8,12 +8,6 @@
 <br>🌱 I’m currently learning Salesforce, JavaScript , Java, Html ,Vue, React, CSS...
 <br>⚡ Fun fact I played professional soccer in pumas mx
 
-
-## Statistics
-<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" align="left" height="50">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelGuerrero07&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelGuerrero07&layout=compact&langs_count=7&theme=cobalt"/>
-<a href="https://github.com/MiguelGuerrero07">
    
 ## Spotify Playing 🎧
 [![Spotify](https://novatorem-miguelguerrero07.vercel.app/api/spotify)](https://open.spotify.com/user/9vytrtwcq7st74s1aybm5t3la?si=099f2f04a8da4665)
