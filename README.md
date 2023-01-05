@@ -1,6 +1,6 @@
 ## Whoami 
 
-<img align="right" height="200px" src="https://user-images.githubusercontent.com/69058719/151088496-02b581ab-5efa-4493-bac6-bdb7456ef969.png">
+
 <p align="center" width="600">¡Hey 👋! Soy Miguel Guerrero 👨🏻‍💻 </p>
 <p align="center" width="500">Soy<strong> Desarrollador Salesforce</strong></p>
 <img align="left" src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px">
