@@ -16,13 +16,6 @@
 ## Contact 📞
    
 <div  align="center" width="500"> 
-   
-  
-
-  <a href="https://twitter.com/MiguelGuerre07" target="blank">
-  <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png"/>
-  </a>
-  
   <a href="https://www.linkedin.com/in/miguel-guerrero-331a491a7" target="blank">
   <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>
   </a>
