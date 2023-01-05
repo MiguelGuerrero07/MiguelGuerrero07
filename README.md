@@ -17,9 +17,7 @@
    
 <div  align="center" width="500"> 
    
-  <a href="https://www.instagram.com/miguel_guerrero_12 " target="blank">
-  <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/>
-  </a>
+  
 
   <a href="https://twitter.com/MiguelGuerre07" target="blank">
   <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png"/>
