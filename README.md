@@ -5,7 +5,7 @@
 <p align="center" width="500">Soy<strong> Desarrollador Salesforce</strong></p>
 <img align="left" src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px">
 <br>🔭 I’m currently working on NTT DATA , developer at Salesforce
-<br>🌱 I’m currently learning Salesforce, JavaScript , Java, Html ,Vue, React, CSS...
+<br>🌱 I’m currently learning Salesforce, JavaScript , Java, Html ,Css
 <br>⚡ Fun fact I played professional soccer in pumas mx
 
    
